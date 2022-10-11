@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-homework-template/static/js/main.bf8a2c50.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.bf8a2c50.js.map": "/react-homework-template/static/js/main.bf8a2c50.js.map"
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.bf8a2c50.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.bf8a2c50.js.map": "/goit-react-hw-03-phonebook/static/js/main.bf8a2c50.js.map"
   },
   "entrypoints": [
     "static/js/main.bf8a2c50.js"
